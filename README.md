@@ -1,1 +1,1 @@
-![screenshot](nyan.gif)
+![screenshot](charizard.gif)
