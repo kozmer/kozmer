@@ -1,1 +1,1 @@
-![screenshot](ff.gif)
+![screenshot](nyan.gif)
