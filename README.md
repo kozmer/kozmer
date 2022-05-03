@@ -1,1 +1,1 @@
-![screenshot](charizard.gif)
+![screenshot](charizard2.gif)
